@@ -63,7 +63,8 @@
       "name": "UniGame",
       "url": "http://51.178.25.134:4873",
       "scopes": [
-        "com.unigame"
+        "com.unigame",
+        "com.codewriter"
       ]
     }
   ]
