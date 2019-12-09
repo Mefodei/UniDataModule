@@ -1,22 +1,4 @@
 {
-  "scopedRegistries": [
-    {
-      "name": "Unity",
-      "url": "https://packages.unity.com",
-      "scopes": [
-        "com.unity"
-      ]
-    },
-    {
-      "name": "Plavalaguna",
-      "url": "http://188.227.74.28",
-      "scopes": [
-        "com.plavalaguna",
-        "com.greenbuttongames",
-        "com.codewriter"
-      ]
-    }
-  ],
   "dependencies": {
     "com.codewriter.npm-publisher-support": "0.3.3",
     "com.greenbuttongames.neuecc.unirx": "7.0.2",
@@ -68,5 +50,21 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "Unity",
+      "url": "https://packages.unity.com",
+      "scopes": [
+        "com.unity"
+      ]
+    },
+    {
+      "name": "UniGame",
+      "url": "http://51.178.25.134:4873",
+      "scopes": [
+        "com.unigame"
+      ]
+    }
+  ]
 }
